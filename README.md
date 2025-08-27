@@ -1,1 +1,1 @@
-# Lista de Programaá∆o 
+# Lista de Programa√ß√£o

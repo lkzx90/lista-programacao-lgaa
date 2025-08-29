@@ -1,0 +1,2 @@
+public class AtividadeJava06 {
+}
